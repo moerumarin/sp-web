@@ -1,2 +1,7 @@
 # sp-web
-GitHubnyumon
+入門用です。
+
+
+## メンバー
+*Test1
+*Test2
